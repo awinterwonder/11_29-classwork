@@ -1,0 +1,23 @@
+.header, .navigation, .footer {
+  clear: both;
+}
+.column {
+  margin: 10px 1.04% 0 0;
+}
+.header {
+  background:url(images/w.png) no-repeat;
+  height: 200px;
+}
+#visit {
+  width: 25%;
+  float: left;
+}
+#points {
+  width: 25%;
+  float: right;
+}
+#main {
+  margin-right: 27.08%;
+  margin-left: 26.04%;
+  width: 47.9%;
+}
